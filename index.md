@@ -3,3 +3,4 @@
 This is a prototype for a new education idea
 
 ## Pages
+* [How to use Google Search](/google-search.md)
