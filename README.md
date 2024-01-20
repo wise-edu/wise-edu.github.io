@@ -1,6 +1,10 @@
-# Welcome to Wise Edu
+# wise-edu.github.io
 
-This is a prototype for a new education idea
+By Danche Choi, Kathryn Evans, Jan Resztak, Toby Worrel and contributors
+
+## About
+
+See [About](/about.md)
 
 ## Pages
 * [How to use Google Search](/google-search.md)
