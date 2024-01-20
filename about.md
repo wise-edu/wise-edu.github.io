@@ -64,6 +64,6 @@ These link the lessons together like Rigid Learning but with the flexibility of 
 
 We will eventually have Javascript linkmaps on the homepage like the TFL network map (outdated, you get the point):
 
-![TFL network map](https://foi.tfl.gov.uk/FOI-2043-2122/Online%2520Tube%2520Map%2520-%2520July%25202021%2528a%2529.svg)
+![TFL network map](./tube-map.svg)
 
 And have linkmaps for individual lessons like individual lines.
