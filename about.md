@@ -62,8 +62,8 @@ Wise education consists of large amounts of lessons, with prerequisites, and fur
 
 These link the lessons together like Rigid Learning but with the flexibility of free learning.
 
-We will eventually have Javascript linkmaps on the homepage like the TFL network map:
+We will eventually have Javascript linkmaps on the homepage like the TFL network map (outdated, you get the point):
 
-![TFL network map](https://upload.wikimedia.org/wikipedia/commons/1/13/London_Underground_Overground_DLR_Crossrail_map.svg)
+![TFL network map](https://foi.tfl.gov.uk/FOI-2043-2122/Online%2520Tube%2520Map%2520-%2520July%25202021%2528a%2529.svg)
 
 And have linkmaps for individual lessons like individual lines.
